@@ -1,31 +1,34 @@
 [
-     {
-         "package": "denhotspots",
-         "url": "https://github.com/fdzul/denhotspots"
-     },
-     {
-         "package": "boldenr",
-         "url": "https://github.com/fdzul/boldenr"
-     },
-     {
-         "package": "rgeomex",
-         "url": "https://github.com/fdzul/rgeomex"
-     },
-     {
-         "package": "deneggs",
-         "url": "https://github.com/fdzul/deneggs"
-     },
-     {
-         "package": "dendata",
-         "url": "https://github.com/fdzul/dendata"
-     },
-     {
-         "package": "popmex",
-         "url": "https://fdzul.github.io/popmex/"
-     },
-     {
-         "package": "densnv",
-         "url": "https://fdzul.github.io/densnv/"
-     }
-
+    {
+        "package": "denhotspots",
+        "url": "https://github.com/fdzul/denhotspots"
+    },
+    {
+        "package": "boldenr",
+        "url": "https://github.com/fdzul/boldenr"
+    },
+    {
+        "package": "rgeomex",
+        "url": "https://github.com/fdzul/rgeomex"
+    },
+    {
+        "package": "deneggs",
+        "url": "https://github.com/fdzul/deneggs"
+    },
+    {
+        "package": "dendata",
+        "url": "https://github.com/fdzul/dendata"
+    },
+    {
+        "package": "popmex",
+        "url": "https://fdzul.github.io/popmex/"
+    },
+    {
+        "package": "densnv",
+        "url": "https://fdzul.github.io/densnv/"
+    },
+    {
+        "package": "dengueriskcdmx",
+        "url": "https://github.com/fdzul/dengueriskcdmx"
+    }
 ]
